@@ -582,8 +582,8 @@ if __name__ == "__main__":
         }
 
         # --- ИЗМЕНЕННЫЙ ПУТЬ К ФАЙЛУ (с включением папки года) ---
-        BASE_WORKING_DIR = r"C:\Users\Kiryl_Batko\Desktop\working files"
-        EXCEL_FILE_NAME_TEMPLATE = r"\GR {year_val}\GR auto {year_val}.xlsx"  # Теперь включает GR {year_val}
+        BASE_WORKING_DIR = r"C:\Users\Kiryl_Batko\xxx\xxxxx"
+        EXCEL_FILE_NAME_TEMPLATE = r"\xx {year_val}\xx auto {year_val}.xlsx"  # Теперь включает  {year_val}
         # --- КОНЕЦ ИЗМЕНЕНИЯ ---
 
         final_sum_pivot_deltas = None
